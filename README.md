@@ -12,5 +12,5 @@ TODO list:
 4. Make a logo.
 5. Change font for .column header.
 6. Make some footer.
-7. Change class names, because they are now only pretending to be accordance with BEM naming convention.
+7. Change class names, because they are now only pretending that they are in accordance with BEM naming convention.
 8. Change RWD function on .js file -> i must use javascript media querries! !important
